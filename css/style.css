@@ -330,12 +330,8 @@ img {
     line-height: 1.71;
 }
 
-.address-list-li {
-    margin-bottom: 9px;
-}
-
-.address-list-li:last-child {
-    margin-bottom: 0px;
+.address li {
+    margin-top: 9px;
 }
 
 .contacts-down {
