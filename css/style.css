@@ -330,6 +330,14 @@ img {
     line-height: 1.71;
 }
 
+.address-list-li {
+    margin-bottom: 10px;
+}
+
+.address-list-li:last-child {
+    margin-bottom: 0px;
+}
+
 .contacts-down {
     font-weight: 400;
     font-size: 14px;
@@ -428,4 +436,3 @@ img {
     letter-spacing: 0.03em;
     color: var(--main-text-color);
 }
-    
